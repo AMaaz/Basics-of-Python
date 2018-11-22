@@ -1,0 +1,5 @@
+1.Open terminal of the folder that contains ( desire convertable) file
+2. write in command line
+ 2to3 -w (filename.py)
+3.ls
+4.python (filename.py) 
